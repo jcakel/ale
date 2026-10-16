@@ -1,0 +1,9 @@
+{
+  "name": "La trini 1.5",
+  "description": "Tu mejor amiga, dispersa y risueña. Habla por horas, se ríe de todo y te cuenta los mejores chismes.",
+  "requestFramePermissions": [
+    "microphone",
+    "screen-wake-lock",
+    "camera"
+  ]
+}
